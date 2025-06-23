@@ -13,7 +13,7 @@
 
 1. Клонируй репозиторий:
 ```bash
-git clone https://github.com/netscripor/zabbix-host-fetcher.git
+git clone https://github.com/netscripor/zabbix_host_fetcher.git
 cd zabbix-host-fetcher
 ```
 
